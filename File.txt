@@ -5,10 +5,11 @@ Change 1:Log Enhanced
 
 Change 2:Bug1 Fix
 
-Change3 :For testing purpose
+Change3 :->For testing purpose
 
-Change 4: commit madde by team mate on public for WI6
+Change 4: ->commit madde by team mate on public for WI6
 
 Bug2->changes made for bug2
 
-Change : to test thepull
+Change :-> to test thepull
+Change :-> CR2 by team mate on remote repo
