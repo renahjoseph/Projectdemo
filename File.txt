@@ -11,5 +11,7 @@ Change 4: ->commit madde by team mate on public for WI6
 
 Bug2->changes made for bug2
 
-Change :-> to test thepull
 Change :-> CR2 by team mate on remote repo
+Change5 : to test thepull
+
+Change 6:Nug 3 fix at local master repo
